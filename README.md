@@ -1,2 +1,2 @@
 # Simple-Calculator
-A simple Calculator using tkinter 
+A GUI based Calculator using Python Tkinter library 
